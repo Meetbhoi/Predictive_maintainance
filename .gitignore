@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 __pycache__/
 *.pyc
@@ -5,3 +6,15 @@ __pycache__/
 machine-failure-api/models/
 .ipynb_checkpoints/
 ai4i2020.csv
+=======
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+>>>>>>> 678d712ea699feeb7bace508e348b49ec81b643e
