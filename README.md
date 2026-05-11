@@ -1,4 +1,6 @@
 # Predictive Maintenance — Machine Failure Prediction
+
+![Dashboard Preview](Dashboard.png)
  
 Built on the AI4I 2020 synthetic industrial dataset. The goal was to predict machine failures from sensor readings and deploy it as a usable API — not just a notebook.
  
